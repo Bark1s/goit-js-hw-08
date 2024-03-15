@@ -1,0 +1,14 @@
+.gallery {
+  margin: 0 auto;
+}
+
+.gallery li {
+  width: 360px;
+  height: 200px;
+}
+
+.gallery img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
